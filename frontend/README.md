@@ -2,7 +2,7 @@
 
 This is the frontend part of the Task Project, built using **React** , **CSS** and **TypeScript**.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React
 - TypeScript
@@ -16,7 +16,7 @@ npm create vite@latest . -- --template react-ts
 npm install
 cd ..
 
-## 🚀 How to Run Frontend
+##  How to Run Frontend
 
 1. Install dependencies:
    ```bash

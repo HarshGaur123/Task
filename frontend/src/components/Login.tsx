@@ -1,4 +1,4 @@
-'use client'; // if you use Next.js else remove this
+'use client'; 
 
 import React, { useState } from 'react';
 

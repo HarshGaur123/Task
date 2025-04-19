@@ -3,7 +3,7 @@
 
 This is the backend part of the Task Project, built using **Node.js**, **Express**, **TypeScript**, and **Prisma**.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Node.js
 - Express.js
@@ -16,7 +16,7 @@ cd backend
 npm init -y
 npm install express
 
-## 🚀 How to Run Backend
+## How to Run Backend
 
 1. Install dependencies:
    ```bash
@@ -41,5 +41,5 @@ npm install express
 4. Error handling with proper status codes
 
 ## To run the froentend and backend both at once then :
-   
+   ```bash
    npm run start
